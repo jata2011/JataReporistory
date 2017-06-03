@@ -78,6 +78,7 @@
     <Compile Include="ApplicationModel1.tsrx.cs">
       <DependentUpon>ApplicationModel1.tsrx</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="FunctionClass.cs" />
     <Compile Include="LeanFtTest.cs" />
     <Compile Include="UnitTestClassBase.cs" />
